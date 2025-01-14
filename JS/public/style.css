@@ -1,0 +1,96 @@
+@import url('https://fonts.cdnfonts.com/css/xanh-mono-2');
+
+body {
+    font-family: 'Xanh Mono', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: #333;
+}
+
+h1,
+h2 {
+    margin-bottom: 10px;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    /* Ensure the sections are laid out horizontally */
+    justify-content: space-between;
+}
+
+textarea {
+    flex: 1;
+    /* Take up available space equally */
+    height: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius:15px;
+    resize: vertical;
+}
+
+#html-output {
+    flex: 1;
+    background-color: #ccc;
+    /* Take up available space equally */
+    margin-left: 10px;
+    /* Add some space between input and output */
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    padding: 10px;
+    min-height: 200px;
+    max-height: 610px;
+    max-width: 600px;
+}
+
+#html-output-textarea {
+    flex: 1;
+    /* Take up available space equally */
+    margin-left: 10px;
+    /* Add some space between input and output */
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    padding: 10px;
+    min-height: 200px;
+    max-height: 610px;
+}
+
+#markdown-input {
+    min-height: 200px;
+    max-height: 610px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #000000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.header-text {
+    color: #ffffff;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+td,th {
+    border: black solid 1px;
+}

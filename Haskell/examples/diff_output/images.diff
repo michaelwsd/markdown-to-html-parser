@@ -1,0 +1,11 @@
+diff --git a/examples/expected_output/images.html b/examples/output/images.html
+index 55b5731..b6cf1d1 100644
+--- a/examples/expected_output/images.html
++++ b/examples/output/images.html
+@@ -10,4 +10,4 @@
+     <img src="image.png" alt="Alt Text" title="Caption Text">
+ </body>
+ 
+-</html>
++</html>
+\ No newline at end of file

@@ -1,0 +1,11 @@
+diff --git a/examples/expected_output/footnotes.html b/examples/output/footnotes.html
+index 330c5d5..60e0c5b 100644
+--- a/examples/expected_output/footnotes.html
++++ b/examples/output/footnotes.html
+@@ -12,4 +12,4 @@
+     <p id="fn3">The 2 spaces after the colon should be ignored</p>
+ </body>
+ 
+-</html>
++</html>
+\ No newline at end of file

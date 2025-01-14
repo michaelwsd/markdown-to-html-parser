@@ -1,0 +1,11 @@
+diff --git a/examples/expected_output/ordered_list.html b/examples/output/ordered_list.html
+index 0c41095..6024cf0 100644
+--- a/examples/expected_output/ordered_list.html
++++ b/examples/output/ordered_list.html
+@@ -21,4 +21,4 @@
+     </ol>
+ </body>
+ 
+-</html>
++</html>
+\ No newline at end of file

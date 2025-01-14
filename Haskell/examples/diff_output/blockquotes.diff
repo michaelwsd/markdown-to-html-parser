@@ -1,0 +1,11 @@
+diff --git a/examples/expected_output/blockquotes.html b/examples/output/blockquotes.html
+index 02666f2..3ea792c 100644
+--- a/examples/expected_output/blockquotes.html
++++ b/examples/output/blockquotes.html
+@@ -13,4 +13,4 @@
+     </blockquote>
+ </body>
+ 
+-</html>
++</html>
+\ No newline at end of file

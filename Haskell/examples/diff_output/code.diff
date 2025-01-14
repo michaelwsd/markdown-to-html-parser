@@ -1,0 +1,11 @@
+diff --git a/examples/expected_output/code.html b/examples/output/code.html
+index 2e7e80f..9b4c20d 100644
+--- a/examples/expected_output/code.html
++++ b/examples/output/code.html
+@@ -15,4 +15,4 @@ main = do
+     </code></pre>
+ </body>
+ 
+-</html>
++</html>
+\ No newline at end of file
