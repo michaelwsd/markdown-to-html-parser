@@ -22,7 +22,7 @@ In the Haskell folder run:
 $ stack run
 ```
 
-In a separate terminal, in the javascript folder run:
+In a separate terminal, in the Javascript folder run:
 
 ```
 $ npm i
